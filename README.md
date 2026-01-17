@@ -3,7 +3,7 @@
 This repository centralizes my public professional certifications in a structured and verifiable way.  
 Only relevant certifications related to software development, backend engineering, and core technical skills are included.  
 The purpose is documentation and traceability; certifications do not replace hands-on experience or real-world projects.  
-For practical experience and active projects, please refer to my main GitHub profile: https://github.com/SEU_USUARIO
+For practical experience and active projects, please refer to my main GitHub profile: https://github.com/lucaspaiva-lp
 
 ## Certifications
 
