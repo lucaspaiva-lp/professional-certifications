@@ -7,13 +7,16 @@ For practical experience and active projects, please refer to my main GitHub pro
 
 ## Certifications
 
-| Title                                          | Provider            | Description                                                                          | Date       | Evidence                                                           |
-| ---------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------ |
-| Network Defense Professional (Online Marathon) | Independent Program | Introductory concepts of network security, threat awareness, and defensive practices | 2025-04    | [Certificate](certificates/2025/network-defense-marathon.pdf)      |
-| Discover Path – Conectar                       | Rocketseat          | Foundational software development path covering programming logic and tooling        | 2023-02    | [Certificate](certificates/2023/discover-path-rocketseat.pdf)      |
-| JavaScript Language                            | Estudonauta         | JavaScript fundamentals, syntax, and core language concepts                          | 2022-10    | [Certificate](certificates/2022/javascript-estudonauta.pdf)        |
-| Software Testing Workshop (Gherkin)            | Ser Educacional     | Requirements analysis and software testing using Gherkin and VSCode                  | 2022-09    | [Certificate](certificates/2022/software-testing-gherkin.pdf)      |
-| React Introduction Workshop                    | Ser Educacional     | Introductory workshop covering React fundamentals and component-based UI concepts    | 2022-08-27 | [Certificate](certificates/2022/react-workshop-sereducacional.pdf) |
+## Certifications
+
+| Category         | Title                                          | Provider                  | Description                                                                           | Date         | Evidence                                                           |
+| ---------------- | ---------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------ |
+| Higher Education | Systems Analysis and Development               | University Center Estácio | Undergraduate degree focused on software development, databases, and systems analysis | 2025–Present | In progress                                                        |
+| Workshop         | Network Defense Professional (Online Marathon) | Independent Program       | Introductory concepts of network security, threat awareness, and defensive practices  | 2025-04      | [Certificate](certificates/2025/network-defense-marathon.pdf)      |
+| Course           | Discover Path – Conectar                       | Rocketseat                | Foundational software development path covering programming logic and tooling         | 2023-02      | [Certificate](certificates/2023/discover-path-rocketseat.pdf)      |
+| Course           | JavaScript Language                            | Estudonauta               | JavaScript fundamentals, syntax, and core language concepts                           | 2022-10      | [Certificate](certificates/2022/javascript-estudonauta.pdf)        |
+| Workshop         | Software Testing Workshop (Gherkin)            | Ser Educacional           | Requirements analysis and software testing using Gherkin and VSCode                   | 2022-09      | [Certificate](certificates/2022/software-testing-gherkin.pdf)      |
+| Workshop         | React Introduction Workshop                    | Ser Educacional           | Introductory workshop covering React fundamentals and component-based UI concepts     | 2022-08-27   | [Certificate](certificates/2022/react-workshop-sereducacional.pdf) |
 
 See [certification criteria](docs/criteria.md) for inclusion guidelines.
 
