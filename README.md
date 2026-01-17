@@ -16,3 +16,9 @@ For practical experience and active projects, please refer to my main GitHub pro
 | React Introduction Workshop                    | Ser Educacional     | Introductory workshop covering React fundamentals and component-based UI concepts    | 2022-08-27 | [Certificate](certificates/2022/react-workshop-sereducacional.pdf) |
 
 See [certification criteria](docs/criteria.md) for inclusion guidelines.
+
+## Disclaimer
+
+All certificates displayed in this repository were issued by their respective institutions
+and are presented here solely for personal verification and portfolio purposes.
+Logos, trademarks, and certificate contents remain the property of their original issuers.
