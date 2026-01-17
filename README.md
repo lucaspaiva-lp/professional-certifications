@@ -14,3 +14,5 @@ For practical experience and active projects, please refer to my main GitHub pro
 | Software Testing Workshop (Gherkin)            | Ser Educacional     | Requirements analysis and software testing using Gherkin and VSCode                  | 2022-09    | [Certificate](certificates/2022/software-testing-gherkin.pdf)      |
 | Discover Path – Conectar                       | Rocketseat          | Foundational software development path covering programming logic and tooling        | 2023-02    | [Certificate](certificates/2023/discover-path-rocketseat.pdf)      |
 | Network Defense Professional (Online Marathon) | Independent Program | Introductory concepts of network security, threat awareness, and defensive practices | 2025-04    | [Certificate](certificates/2025/network-defense-marathon.pdf)      |
+
+See [certification criteria](docs/criteria.md) for inclusion guidelines.
