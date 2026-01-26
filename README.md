@@ -7,8 +7,6 @@ For practical experience and active projects, please refer to my main GitHub pro
 
 ## Certifications
 
-## Certifications
-
 | Category                 | Title                                           | Provider                      | Description                                                                                                                                                                 | Date         | Evidence                                                                  |
 | ------------------------ | ----------------------------------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------- |
 | Higher Education         | Systems Analysis and Development                | University Center Estácio     | Undergraduate degree focused on software development, databases, and systems analysis                                                                                       | 2025–Present | In progress                                                               |
